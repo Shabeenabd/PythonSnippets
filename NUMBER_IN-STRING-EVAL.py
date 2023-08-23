@@ -1,3 +1,7 @@
+
+#----------------computing the numbers in string format according to the operator precedence
+#----------------this can be done using eval() function
+#----------------this code is the back end of  evaluating the string of digits by eval function 
 def calc(x=0):
     if x==0:
             original=input("ENTER :")
