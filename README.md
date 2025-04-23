@@ -26,3 +26,7 @@ To improve coding logic through small challenges
 To build a habit of daily or weekly coding
 
 To have a reference for quick ideas and reusable code
+
+![Static Badge](https://img.shields.io/badge/python-yellow)![Static Badge](https://img.shields.io/badge/Snippets-blue)
+
+
